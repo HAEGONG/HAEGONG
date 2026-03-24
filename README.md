@@ -16,7 +16,7 @@
   </a>
   &emsp;
   <a href="https://github.com/HAEGONG/HAEGONG">
-    <img src="https://github-readme-stats-kappa-tan-15.vercel.app/api/top-langs/?username=HAEGONG&layout=compact&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" height="150"/>
+    <img src="https://github-readme-stats-kappa-tan-15.vercel.app/api/top-langs/?username=HAEGONG&layout=compact&hide=ShaderLab,html,tex,HLSL&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=6" height="150"/>
   </a>
 </p>
 
