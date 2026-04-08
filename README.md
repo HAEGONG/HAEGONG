@@ -24,6 +24,11 @@
 
 
 <!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgr0725)](https://solved.ac/dgr0725) -->
+---
+
+## Project
+[RPG Freak (몬스터 수집, 육성 RPG)](https://www.notion.so/RPG-Freak-33c81f13c25b805d97d4c2ce46144266?source=copy_link)
+
 
 ---
 
