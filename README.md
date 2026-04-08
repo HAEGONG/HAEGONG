@@ -23,7 +23,7 @@
 
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgr0725)](https://solved.ac/dgr0725)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dgr0725)](https://solved.ac/dgr0725) -->
 
 ---
 
