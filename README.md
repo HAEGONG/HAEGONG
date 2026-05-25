@@ -27,7 +27,7 @@
 ---
 
 ## Project
-[RPG Freak (몬스터 수집, 육성 RPG)](https://www.notion.so/RPG-Freak-33c81f13c25b805d97d4c2ce46144266?source=copy_link)
+[RPG Freak (몬스터 수집, 육성 RPG)](https://www.notion.so/Developer-Portfolio-36b81f13c25b8185a6d6fb8a7309404a)
 
 
 ---
